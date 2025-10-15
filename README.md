@@ -1,6 +1,6 @@
 🧠 Simple Greeting Program
 
-This is a beginner-friendly Python program that asks the user for their name and age, then responds with a friendly message. It also tells the user how old they’ll be next year and ends with a cheerful note.
+This is a simple Python program that asks the user for their name and age, then responds with a friendly message. It also tells the user how old they’ll be next year and ends with a cheerful note.
 
 💻 How It Works
 
